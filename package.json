@@ -1,0 +1,20 @@
+{
+  "name": "currency-converter-for-all",
+  "version": "1.0.4",
+  "description": "all currency converter with format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "npm",
+    "currency-converter"
+  ],
+  "author": "HaykMan95",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/HaykMan95/currency-converter-for-all",
+    "type": "git"
+  }
+}
