@@ -4,6 +4,10 @@ You can convert all currency and cryptocurrency
 
 Author [HaykMan95](https://github.com/HaykMan95)
 
+### Install
+
+`npm i currency-converter-for-all`
+
 
 ### How to use
 
